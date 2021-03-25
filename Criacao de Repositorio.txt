@@ -1,0 +1,17 @@
+			Criar novos repositórios no GitHub
+
+Na pasta do repositório: (abrir com Git Bash)
+	git init
+		Para iniciar o repositório
+	git status
+		Ver quais documentos precisam de atualização
+	git add .
+		Adicionar arquivos
+	git commit -a -m "TEXTO"
+		Confirmar alterações
+
+Criar um repositório no GitHub e copiar o link
+	git remote add origin "LINK"
+		Linkar os repositórios
+	git push origin "BRANCH"
+		
